@@ -1,0 +1,48 @@
+head {
+    background-color:skyblue ;
+    color: white;
+    font-size-adjust: 16px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+h1 {
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+
+}
+
+h2 {
+
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+p{
+
+font-size: 16px;
+text-align: center;
+margin: 20px;
+font-family: 'Courier New', Courier, monospace;
+color: black;
+
+}
+
+
+button {
+    background-color: green;
+    text-align: center;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
